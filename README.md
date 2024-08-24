@@ -1,4 +1,4 @@
-# introduction
+# Introduction
 Hi, I’m Prem Chand Serawat, an experienced Software Engineer and Data Scientist passionate about leveraging technology to build scalable, efficient, and user-friendly software solutions. With over 5 years in the industry, I specialize in SaaS product development, focusing both on the intricate details of frontend and the complexities of backend systems.
 
 Currently, I'm a Software Engineer II at QuillBot IT Solution Pvt. Ltd. During my tenure, I've been deeply involved in enhancing code quality, developing seamless user experiences, and architecting robust data pipelines. Some of my notable projects include creating a CMS from scratch, developing a paraphrasing tool, a grammar checker, and a citation generator. I also led critical big data processing initiatives, managing and optimizing the processing of over 160 million JSON records into Elasticsearch, substantially reducing computational resources by 95%.
